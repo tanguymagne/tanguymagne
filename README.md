@@ -1,33 +1,10 @@
 <h1 align="center">Hi, I'm Tanguy!</h1>
 
 <p align="center">
-  <a href="https://tanguymagne.com/" title="Website">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=tanguymagne.com/assets/icons/resume.svg&filt=negate&w=48">
-      <img height="28" src="https://wsrv.nl/?url=tanguymagne.com/assets/icons/resume.svg&w=48" alt="Website">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://scholar.google.com/citations?user=tanguymagne" title="Google Scholar">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=tanguymagne.com/assets/icons/scholar.svg&filt=negate&w=48">
-      <img height="28" src="https://wsrv.nl/?url=tanguymagne.com/assets/icons/scholar.svg&w=48" alt="Google Scholar">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tanguymagne/" title="LinkedIn">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=tanguymagne.com/assets/icons/linkedin.svg&filt=negate&w=48">
-      <img height="28" src="https://wsrv.nl/?url=tanguymagne.com/assets/icons/linkedin.svg&w=48" alt="LinkedIn">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:tanguy.magne48300@gmail.com" title="Email">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=tanguymagne.com/assets/icons/mail.svg&filt=negate&w=48">
-      <img height="28" src="https://wsrv.nl/?url=tanguymagne.com/assets/icons/mail.svg&w=48" alt="Email">
-    </picture>
-  </a>
+  <a href="https://tanguymagne.com/" title="Website"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=tanguymagne.com/assets/icons/resume.svg&filt=negate&w=48"><img height="28" hspace="10" src="https://wsrv.nl/?url=tanguymagne.com/assets/icons/resume.svg&w=48" alt="Website"></picture></a>
+  <a href="https://scholar.google.com/citations?user=tanguymagne" title="Google Scholar"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=tanguymagne.com/assets/icons/scholar.svg&filt=negate&w=48"><img height="28" hspace="10" src="https://wsrv.nl/?url=tanguymagne.com/assets/icons/scholar.svg&w=48" alt="Google Scholar"></picture></a>
+  <a href="https://www.linkedin.com/in/tanguymagne/" title="LinkedIn"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=tanguymagne.com/assets/icons/linkedin.svg&filt=negate&w=48"><img height="28" hspace="10" src="https://wsrv.nl/?url=tanguymagne.com/assets/icons/linkedin.svg&w=48" alt="LinkedIn"></picture></a>
+  <a href="mailto:tanguy.magne48300@gmail.com" title="Email"><picture><source media="(prefers-color-scheme: dark)" srcset="https://wsrv.nl/?url=tanguymagne.com/assets/icons/mail.svg&filt=negate&w=48"><img height="28" hspace="10" src="https://wsrv.nl/?url=tanguymagne.com/assets/icons/mail.svg&w=48" alt="Email"></picture></a>
 </p>
 
 <!-- <p align="center">
